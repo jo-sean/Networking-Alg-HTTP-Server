@@ -2,6 +2,7 @@
 # Date: 1/20/2022
 # CS 372: Project 1 Part 1
 # Sources: Computer Networking A Top-Down Approach Ch. 2.7
+# Adrian Hing and Shane Yen: https://edstem.org/us/courses/16852/discussion/1006512
 
 from socket import *
 # Variables for host and port# (which is 80 since it is an HTTP request)
